@@ -171,6 +171,13 @@ table td {
   align-items: center;
 }
 
+
+#education {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
 #experience .experience-wrapper {
   display: flex;
 }
